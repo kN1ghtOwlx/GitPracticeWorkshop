@@ -2,6 +2,7 @@
 
 ## Description
 A sample Git project.
+Added a new feature.
 
 ## Features
 - Git Basics
