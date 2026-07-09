@@ -2,8 +2,6 @@
 
 ## Description
 A sample Git project.
-Tried adding new Branch.
-Checking for pull request.
 
 ## Features
 - Git Basics
