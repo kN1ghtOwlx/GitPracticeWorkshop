@@ -3,6 +3,7 @@
 ## Description
 A sample Git project.
 Added a new feature.
+Checking for pull request.
 
 ## Features
 - Git Basics
