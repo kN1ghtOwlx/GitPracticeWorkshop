@@ -1,3 +1,3 @@
 # Added new Feature A
 
-changes in the same line
+updates in feature A
